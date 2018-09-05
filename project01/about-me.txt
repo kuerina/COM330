@@ -1,0 +1,15 @@
+I consider myself a deep learner passionate about prepare myself to confront hard problems with simple solutions.
+Computer engineering has taugh me how hardware makes possible programability from a bottom-up perspective
+, and so far my favorite programming language has been MC68k because I can understand more or less the
+process needed to perform an instruction. Once languages are lost in abstraction, it is far harder to keep
+up with the actual implementation of our programs and time complexity becomes really an issue.
+
+Since humans make problems easier to understand (or harder) by using abstractions, it is imperative to learn
+how to deal with it. For this reason I am complementing my engineering degree with a masters in Computer science. 
+I hope I can use my understanding of hardware to make abstract problems faster to compute. The facinating
+problems that I hope to learn from computer science are the ones found in datamining, social network analysis,
+machine learning, and artificial intelligence.
+
+
+
+I am passionate about understanding how to make things better!
